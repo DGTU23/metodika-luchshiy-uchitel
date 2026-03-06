@@ -1,5 +1,5 @@
 Experiment_Protocol_Template.md
-markdown
+
 # Experiment Protocol: [Название проекта]
 
 ## 1. Цель эксперимента
