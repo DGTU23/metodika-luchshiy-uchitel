@@ -1,1 +1,4 @@
+text
+Пример репозитория студента, выполнившего проект:
+https://github.com/student_ivanov/tcp_server_epoll
 
