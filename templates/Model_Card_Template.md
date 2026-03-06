@@ -1,5 +1,5 @@
 Model_Card_Template.md
-markdown
+
 # Model Card: [Название проекта]
 
 ## 1. Объект моделирования
